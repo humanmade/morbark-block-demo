@@ -1,6 +1,6 @@
 # Morbark block editor demo
 
-[**Open the interactive WordPress editor**](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2Fmain%2Fblueprint.json)
+[**Open the interactive WordPress editor**](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2F367146361bf67ed96a7f32ed4679a80adc9db4b6%2Fblueprint-v2.json)
 
 The demo opens the Morbark homepage in the visual block editor. Each visitor gets their own independent browser copy.
 
@@ -20,3 +20,7 @@ This is a browser sandbox, not a shared hosted WordPress installation. Changes a
 - `blueprint.json`: WordPress setup, demo theme and 18 reusable patterns.
 - `demo-data.json`: sample content and website imagery.
 - `CLIENT-DEMO.md`: instructions to share with reviewers.
+
+## Design refinement
+
+The refined version uses Poppins, light-weight headings, compact outlined buttons, wider image-and-text sections, full-width support-card photography, a three-panel still-image hero, and a homepage order closer to Morbark’s live site. The hero imagery and some copy remain demonstration approximations. All homepage sections remain native editable WordPress blocks.
