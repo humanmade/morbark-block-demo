@@ -1,6 +1,6 @@
 # Try the Morbark block editor
 
-[Open the interactive demo](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2F532086fe94935b696be1e5aa5de6235ffd07aaae%2Fblueprint-v6.json)
+[Open the interactive demo](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2F0973fca00f345a877d199b993bc1b54df2d8e146%2Fblueprint-v7.json)
 
 Please allow the demo to finish loading. It opens the homepage in the WordPress visual editor.
 
