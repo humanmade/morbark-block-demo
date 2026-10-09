@@ -1,6 +1,6 @@
 # Morbark block editor demo
 
-[**Open the interactive WordPress editor**](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2Fb6de418fb5b6c847da34e7c927fcc6cd48c19374%2Fblueprint-v5.json)
+[**Open the interactive WordPress editor**](https://playground.wordpress.net/?blueprint-url=https%3A%2F%2Fraw.githubusercontent.com%2Fhumanmade%2Fmorbark-block-demo%2F532086fe94935b696be1e5aa5de6235ffd07aaae%2Fblueprint-v6.json)
 
 The demo opens the Morbark homepage in the visual block editor. Each visitor gets their own independent browser copy.
 
